@@ -21,6 +21,8 @@ dans le dossier src , il y a un dossier security pour authentifier avec google
 
 dans le fichier config>package>knpu_oauth2_client.yaml une route a été creer pour la partie google authentification
 
+le fichier env doit etre renommer en .env 
+
 
 
 
